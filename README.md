@@ -1,7 +1,7 @@
 <h1>
 Android-VNC-Viewer
 </h1>
-======================================================================
+
 Remote keyboard and mouse(Android APP).
 
 It had been automatically exported from code.google.com/p/android-vnc-viewer.This is a Android Open Source Project.
